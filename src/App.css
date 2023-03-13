@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  color: #2b0458;
+  font-size: 200%;
+}
+
+body {
+  background-color: #ecdea3;
+}
